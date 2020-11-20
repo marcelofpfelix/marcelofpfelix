@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💼   **CV:** you can check my resume at [bandonga.com/cv/marcelo](https://bandonga.com/cv/marcelo)
+- 💼  You can check my resume at [bandonga.com/cv/marcelo](https://bandonga.com/cv/marcelo)
