@@ -15,15 +15,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-* [leetcode](https://leetcode.com/marcelofpfelix/) 
 
+
+* [leetcode](https://leetcode.com/marcelofpfelix/) 
+https://hub.docker.com/u/marcelofpfelix
 -->
 
 ### 👤 Profile
 
 
-* 💼 **CV:** You can check my resume at [bandonga.com/cv/marcelo](https://bandonga.com/cv/marcelo)
+
 * 🛠️ Platforms used to learn and for my projects:
   * [ansible galaxy](https://galaxy.ansible.com/marcelofpfelix) 
   * [vagrant cloud](https://app.vagrantup.com/marcelofpfelix) 
   * [exercism](https://exercism.io/profiles/marcelofpfelix)
+* 💼 You can check my resume at [bandonga.com/cv/marcelo](https://bandonga.com/cv/marcelo) 
