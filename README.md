@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 * [leetcode](https://leetcode.com/marcelofpfelix/) 
-https://hub.docker.com/u/marcelofpfelix
+
 -->
 
 ### 👤 Profile
@@ -26,6 +26,7 @@ https://hub.docker.com/u/marcelofpfelix
 
 
 * 🛠️ Platforms used to learn and for my projects:
+  * [docker hub](https://hub.docker.com/u/marcelofpfelix) 
   * [ansible galaxy](https://galaxy.ansible.com/marcelofpfelix) 
   * [vagrant cloud](https://app.vagrantup.com/marcelofpfelix) 
   * [exercism](https://exercism.io/profiles/marcelofpfelix)
