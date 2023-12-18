@@ -17,17 +17,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-* [leetcode](https://leetcode.com/marcelofpfelix/) 
-
--->
-
-### 👤 Profile
-
-
 
 * 🛠️ Platforms used to learn and for my projects:
   * [docker hub](https://hub.docker.com/u/marcelofpfelix) 
   * [ansible galaxy](https://galaxy.ansible.com/marcelofpfelix) 
   * [vagrant cloud](https://app.vagrantup.com/marcelofpfelix) 
   * [exercism](https://exercism.io/profiles/marcelofpfelix)
+  * [leetcode](https://leetcode.com/marcelofpfelix/) 
+  
+-->
+
+### 👤 Profile
+
+
+
+
 * 💼 You can check my resume at [bandonga.com/cv/marcelo](https://bandonga.com/cv/marcelo) 
